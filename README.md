@@ -1,13 +1,26 @@
-# Types-Of-Digital-Footprints
+# What-Your-Digital-Footprint-Can-Say-About-You
+What Your Digital Footprint Can Say About You
+
+---------------------
+
+It’s a good idea to have a positive digital footprint. This information is your digital identity, and it could show up when someone searches for your name online.
+
+Your online identity can influence different aspects of your life. For example, employers, schools, colleges, and law enforcement officials could use your digital footprint as a basis for character assessment.
+
+---------------------
+
+
 Types Of Digital Footprints
 
 ---------------------
+
 Digital footprints can be classified into two broad categories — active and passive footprints — which depends on how your information is acquired.
 
 ---------------------
 
 :footprints: Active Digital Footprints :footprints:
 ---------------------
+
 Active digital footprints consist of the data you leave when you make deliberate choices on the internet. For instance, posts you make to your social media channels are a form of active footprint. When you are logged into a project management or similar site, changes you make that are connected to your login name are also part of your active footprint.
 
 ---------------------
